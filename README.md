@@ -11,7 +11,7 @@
     - ![Golang][go-logo]
 
 ## Stats
-![Anurag's GitHub stats][stat]
+![Sanmer's GitHub Stats][stat]
 
 ![Top Langs][lang]
 
