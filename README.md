@@ -1,19 +1,19 @@
 # Hi there 👋
 > My name is Sanmer, major in geophysics, an amateur Android developer.
 
-![AS][as-logo] ![IDEA][idea-logo] ![PY][pycharm-logo]
+[![AS][as-logo]](https://developer.android.com/studio) [![IDEA][idea-logo]](https://www.jetbrains.com/idea/) [![PY][pycharm-logo]](https://www.jetbrains.com/pycharm/)
 
 ## Main Programming Language
-- ![Kotlin][kt-logo]
-- ![Python][py-logo]
+- [![Kotlin][kt-logo]](https://kotlinlang.org/)
+- [![Python][py-logo]](https://www.python.org/)
 - **Learning**
-    - ![C++][cpp-logo]
-    - ![Golang][go-logo]
+    - [![C++][cpp-logo]](https://isocpp.org/)
+    - [![Golang][go-logo]](https://go.dev)
 
 ## Stats
-![Sanmer's GitHub Stats][stat]
+[![Sanmer's GitHub Stats][stat]](https://github.com/ya0211)
 
-![Top Langs][lang]
+[![Top Langs][lang]](https://github.com/ya0211)
 
 [as-logo]:https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white
 [idea-logo]:https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white
